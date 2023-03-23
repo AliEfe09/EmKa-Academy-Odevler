@@ -1,2 +1,2 @@
-# NumPy_Odevler
-NumPy ödevlerini yüklediğim yer
+# EmKa Academy Ödevleri
+EmKa Academy ödevlerini yüklediğim yer
